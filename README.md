@@ -18,7 +18,7 @@ Currently working as a **Python Developer** at:
         <a href = "mailto:wiktor.moldowan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C10000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://t.me/def196" target="_blank"><img src="https://img.shields.io/badge/-Telegram-3571A1?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
         <a href="https://discord.com/users/272313522296324106" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-        <a href="https://www.linkedin.com/in/vi-mcw196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/viktor-moldovan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </p>
 </div>
 
