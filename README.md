@@ -3,7 +3,7 @@
 ## Employment
 Currently working as a **Python Software Engineer** at:
 
-![UBS](https://github.com/user-attachments/assets/61160e35-ebbb-48d6-895b-46f111b58a58)
+<img src="https://github.com/user-attachments/assets/61160e35-ebbb-48d6-895b-46f111b58a58" alt="UBS" width="200">
 
 ## Education
 - **Bachelor's degree** in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_).
