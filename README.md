@@ -1,9 +1,9 @@
 <a href="https://macwuo.io" target="_blank"><img src="icons/header.png" target="_blank"></a>
 
 ## Employment
-Currently working as a **Python Software Engineer** at:
+Currently working as a **Software Engineer** at:
 
-<img src="[https://github.com/user-attachments/assets/61160e35-ebbb-48d6-895b-46f111b58a58](https://www.pikpng.com/pngl/b/417-4172451_nasdaq-logo-nasdaq-logo-white-png-clipart.png)" alt="Nasdaq" width="200">
+<img width="200" alt="Nasdaq" src="https://github.com/user-attachments/assets/43a8de15-ad86-44cd-b70e-5bf40e4fe467" />
 
 ## Education
 - **Bachelor's degree** in **Applied computer science** at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)** (_pol. [Politechnika Wrocławska](https://pwr.edu.pl/)_).
